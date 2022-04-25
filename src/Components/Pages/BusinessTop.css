@@ -1,0 +1,16 @@
+body {
+  text-align: justify;
+}
+
+.philosophyList {
+  color: rgb(1, 1, 106);
+}
+
+.philosophyDefinition {
+  font-size: small;
+}
+
+.philosophyBottom {
+  color: rgb(1, 1, 106);
+  opacity: 0.7;
+}
